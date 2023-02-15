@@ -1,2 +1,2 @@
-# Culculator Project
+# Calculator Project
 My first project
